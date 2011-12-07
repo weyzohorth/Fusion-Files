@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Session SYSTEM "Session-4.3.dtd">
+<!-- eric4 session file for project fusion files Qt -->
+<!-- This file was generated automatically, do not edit. -->
+<!-- Saved: 2009-09-19, 04:07:18 -->
+<Session version="4.3">
+  <Filenames>
+    <Filename cline="7" cindex="0" folds="">/home/weyzohorth/Documents/Lien vers vrac/projets jeux/autres projets/fusion files/fusion files 3/fusion files QT.py</Filename>
+    <Filename cline="3" cindex="7" folds="">/home/weyzohorth/Documents/Lien vers vrac/projets jeux/autres projets/fusion files/fusion files 3/gui/mod_file.py</Filename>
+    <Filename cline="3" cindex="5" folds="">/home/weyzohorth/Documents/Lien vers vrac/projets jeux/autres projets/fusion files/fusion files 3/gui/fusion_files3.py</Filename>
+    <Filename cline="11" cindex="24" folds="">/home/weyzohorth/Documents/Lien vers vrac/projets jeux/autres projets/fusion files/fusion files 3/gui/fusion_gui2.py</Filename>
+    <Filename cline="0" cindex="0" folds="">/home/weyzohorth/Documents/Lien vers vrac/projets jeux/autres projets/fusion files/fusion files 3/gui/gui.py</Filename>
+  </Filenames>
+  <ActiveWindow cline="0" cindex="0">/home/weyzohorth/Documents/Lien vers vrac/projets jeux/autres projets/fusion files/fusion files 3/gui/gui.py</ActiveWindow>
+  <Breakpoints>
+  </Breakpoints>
+  <Watchexpressions>
+  </Watchexpressions>
+  <DebugInfo>
+    <CommandLine></CommandLine>
+    <WorkingDirectory></WorkingDirectory>
+    <Environment></Environment>
+    <ReportExceptions value="True" />
+    <Exceptions>
+    </Exceptions>
+    <IgnoredExceptions>
+    </IgnoredExceptions>
+    <AutoClearShell value="True" />
+    <TracePython value="False" />
+    <AutoContinue value="True" />
+    <CovexcPattern></CovexcPattern>
+  </DebugInfo>
+  <Bookmarks>
+  </Bookmarks>
+</Session>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-4.6.dtd">
+<!-- eric4 project file for project fusion files Qt -->
+<!-- Saved: 2009-09-11, 16:58:27 -->
+<!-- Copyright (C) 2009 W3YZOH0RTH,  -->
+<Project version="4.6">
+  <Language></Language>
+  <ProgLanguage mixed="0">Python</ProgLanguage>
+  <ProjectType>Qt4</ProjectType>
+  <Description></Description>
+  <Version>0.1</Version>
+  <Author>W3YZOH0RTH</Author>
+  <Email></Email>
+  <Sources>
+    <Source>fusion files QT.py</Source>
+    <Source>gui/__init__.py</Source>
+    <Source>gui/gui.py</Source>
+    <Source>gui/fusion_gui2.py</Source>
+    <Source>gui/fusion_files3.py</Source>
+    <Source>fusion3.py</Source>
+    <Source>gui/mod_base.py</Source>
+    <Source>gui/mod_file.py</Source>
+    <Source>gui/mod_unicode.py</Source>
+    <Source>gui/mod_string.py</Source>
+  </Sources>
+  <Forms>
+  </Forms>
+  <Translations>
+  </Translations>
+  <Resources>
+  </Resources>
+  <Interfaces>
+  </Interfaces>
+  <Others>
+  </Others>
+  <MainScript>fusion files QT.py</MainScript>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.ui" type="FORMS" />
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES" />
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS" />
+    <FiletypeAssociation pattern="*.ptl" type="SOURCES" />
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES" />
+    <FiletypeAssociation pattern="*.ui.h" type="FORMS" />
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS" />
+    <FiletypeAssociation pattern="*.py" type="SOURCES" />
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES" />
+  </FiletypeAssociations>
+</Project>

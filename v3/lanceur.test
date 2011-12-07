@@ -1,0 +1,10 @@
+[.D.e.s.k.t.o.p. .E.n.t.r.y.]
+Version=1.0
+Encoding=UTF-8
+Name=test
+Type=Application
+Terminal=true
+Icon[fr_FR]=gnome-panel-launcher
+Name[fr_FR]=test
+Exec="/home/weyzohorth/Documents/Lien vers autres projets/fusion files/test"
+Icon=gnome-panel-launcher
